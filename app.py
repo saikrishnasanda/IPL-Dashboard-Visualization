@@ -1,7 +1,7 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-import matplotlib as plt 
+#import matplotlib as plt 
 import seaborn as sns
 import pickle
 from all_players import all_palyer_info
